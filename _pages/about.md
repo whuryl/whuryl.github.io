@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About me
+======
+Ruan-Yanlin received an M.S. degree in the major of control theory and control engineering from Wuhan University, Wuhan, China. He is currently pursuing the Ph.D. degree in communication and information systems at Wuhan University. His research interests mainly include indoor positioning and navigation technology, signal processing, and machine learning. He used to be an embedded R\&D engineer of ZTE and a university teacher majoring in electrical and electronic information.
 
 A data-driven personal website
 ======
