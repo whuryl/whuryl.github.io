@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruan-Yanlin"
+title                    : "UNL-WHU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruan-Yanlin"
   avatar           : "profile.png"
-  bio              : "PhD candidate of Wuhan University"
+  bio              : "Wuhan University, China."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
