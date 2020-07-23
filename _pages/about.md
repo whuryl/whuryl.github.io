@@ -23,7 +23,7 @@ Under the requirements of the "national team" in the relevant field, following t
 
 **Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/ruanyanlin.cn/tree/master/markdown_generator
+I have also created [a set of Jupyter notebooks](http://ruanyanlin.cn/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 How to edit your site's GitHub repository
@@ -35,4 +35,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://ruanyanlin.cn/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](http://ruanyanlin.cn/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
