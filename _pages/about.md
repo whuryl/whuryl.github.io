@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome to 618"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+My best 618
+------
 
 　　She walks in beauty， like the night
 
@@ -26,10 +28,6 @@ redirect_from:
 
 ![image](https://user-images.githubusercontent.com/54856248/118637147-0ea6e580-b808-11eb-80a0-82d4d2207217.png)
 
-My Code For You
+Matlab codes for you
 ------
-[MATLAB代码](https://paste.ubuntu.com/p/QPmtF5Y2G9/): https://paste.ubuntu.com/p/QPmtF5Y2G9/
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](http://ruanyanlin.cn/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+https://paste.ubuntu.com/p/QPmtF5Y2G9/
