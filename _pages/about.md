@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,4 +31,4 @@ My best 618
 
 Matlab codes for you
 ------
-https://paste.ubuntu.com/p/QPmtF5Y2G9/
+　　https://paste.ubuntu.com/p/QPmtF5Y2G9/
