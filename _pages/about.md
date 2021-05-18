@@ -24,7 +24,7 @@ redirect_from:
 
 　　都在她的面容和目光里显现。
 
-![image](https://user-images.githubusercontent.com/54856248/118630989-a7863280-b801-11eb-8751-60fb87093bf2.png)
+![image](https://user-images.githubusercontent.com/54856248/118637147-0ea6e580-b808-11eb-80a0-82d4d2207217.png)
 
 For more info
 ------
