@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Love-618"
+title: "Welcome to 618"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
