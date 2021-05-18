@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Love-618"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Ruan-Yanlin received an M.S. degree in the major of control theory and control engineering from Wuhan University, Wuhan, China. He is currently pursuing the Ph.D. degree in communication and information systems at Wuhan University. His research interests mainly include indoor positioning and navigation technology, signal processing, and machine learning. He used to be an embedded R&D engineer of ZTE and a university teacher majoring in electrical and electronic information.
+　　She walks in beauty， like the night
+
+　　她走在美的光彩中，像夜晚；
+
+　　Of cloudless climes and starry skies
+
+　　皎洁无云并且繁星漫天；
+
+　　And all that's best of dark and bright
+
+　　黑夜与白天最美妙的色彩；
+
+　　Meet in her aspect and her eyes
+
+　　都在她的面容和目光里显现。
 
 LIESMARS at a Glance
 ======
