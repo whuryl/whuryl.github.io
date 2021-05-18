@@ -28,37 +28,7 @@ redirect_from:
 
 My Code For You
 ------
-clc
-close all
-figure;
-t=pi+pi/2:-0.01:pi/2;
-x=1+1*cos(t);
-y=-10+10*sin(t);
-plot(x,y,'color',[0.2 0 0],'linewidth',3);
-axis equal;
-pause(0.1);
-hold on;
-t=0:0.01:2*pi;
-x=10*cos(t);
-y=3*sin(t);
-for i=1:5
-    hold on;
-    q=[x;y];
-    e=pi/5*i;
-    z=[cos(e) -sin(e);sin(e) cos(e)];
-    k=z*q;
-    r=k(1,:);
-    d=k(2,:);
-    fill(r,d,'r');
-    plot(r,d,'r','linewidth',5);
-    axis square;  
-    pause(0.1);
-end
-hold on;
-x=3*cos(t);
-y=3*sin(t);
-patch(x,y,'y');
-text(0,0,'618')
+https://paste.ubuntu.com/p/QPmtF5Y2G9/
 
 For more info
 ------
