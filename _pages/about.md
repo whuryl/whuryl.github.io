@@ -25,7 +25,7 @@ My best 618
 
 　　Would make my whole world bright.
 
-　　　　　　——Hannah Jo Kee
+　　——Hannah Jo Kee
 
 ![src=http___pic1 win4000 com_wallpaper_2019-07-22_5d354e82f1e0c jpg refer=http___pic1 win4000](https://user-images.githubusercontent.com/54856248/118769660-ff30a680-b8b2-11eb-955b-216230ba45a0.jpg)
 
