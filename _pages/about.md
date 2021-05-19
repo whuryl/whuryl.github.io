@@ -11,24 +11,31 @@ redirect_from:
 My best 618
 ------
 
-　　She walks in beauty， like the night
+　　If you were a teardrop;
 
-　　她走在美的光彩中，像夜晚
+　　In my eye,
 
-　　Of cloudless climes and starry skies
+　　For fear of losing you,I would never cry
 
-　　皎洁无云并且繁星漫天
+　　And if the golden sun,
 
-　　And all that's best of dark and bright
+　　Should cease to shine its light,
 
-　　黑夜与白天最美妙的色彩
+　　Just one smile from you,
 
-　　Meet in her aspect and her eyes
+　　Would make my whole world bright.
 
-　　都在她的面容和目光里显现
+　　——Hannah Jo Kee
 
-![image](https://user-images.githubusercontent.com/54856248/118637147-0ea6e580-b808-11eb-80a0-82d4d2207217.png)
+![src=http___pic1 win4000 com_wallpaper_2019-07-22_5d354e82f1e0c jpg refer=http___pic1 win4000](https://user-images.githubusercontent.com/54856248/118769660-ff30a680-b8b2-11eb-955b-216230ba45a0.jpg)
 
 Matlab codes for you
 ------
-　　[https://paste.ubuntu.com/p/QPmtF5Y2G9/](https://paste.ubuntu.com/p/QPmtF5Y2G9/)
+    f=@(x,y,z)(x.^2+ (9./4).*y.^2 + z.^2 - 1).^3 - x.^2.*z.^3 - (9./80).*y.^2.*z.^3;
+    [x,y,z]=meshgrid(linspace(-3,3));
+    val=f(x,y,z);
+    [p,v]=isosurface(x,y,z,val,0);
+    patch('faces',p,'vertices',v,'facevertexcdata',jet(size(v,1)),'facecolor','w','edgecolor','flat');
+    view(3);
+    grid on;
+    axis equal;
