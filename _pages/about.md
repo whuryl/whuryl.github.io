@@ -8,34 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My best 618
+Happy Everyday
 ------
 
-　　If you were a teardrop;
+**欲寄彩笺兼尺素，山长水阔知何处**
 
-　　In my eye,
+——晏殊《蝶恋花》
 
-　　For fear of losing you, I would never cry
+![src=http___img9 51tietu net_pic_2019-091203_1qmu5hf5kh41qmu5hf5kh4 jpg refer=http___img9 51tietu](https://user-images.githubusercontent.com/54856248/118978803-536a8200-b9aa-11eb-99db-7945e322a2e8.jpg)
 
-　　And if the golden sun,
-
-　　Should cease to shine its light,
-
-　　Just one smile from you,
-
-　　Would make my whole world bright.
-
-　　——Hannah Jo Kee
-
-![src=http___pic1 win4000 com_wallpaper_2019-07-22_5d354e82f1e0c jpg refer=http___pic1 win4000](https://user-images.githubusercontent.com/54856248/118769660-ff30a680-b8b2-11eb-955b-216230ba45a0.jpg)
-
-Matlab codes for you
+Just For You
 ------
-    f=@(x,y,z)(x.^2+ (9./4).*y.^2 + z.^2 - 1).^3 - x.^2.*z.^3 - (9./80).*y.^2.*z.^3;
-    [x,y,z]=meshgrid(linspace(-3,3));
-    val=f(x,y,z);
-    [p,v]=isosurface(x,y,z,val,0);
-    patch('faces',p,'vertices',v,'facevertexcdata',jet(size(v,1)),'facecolor','w','edgecolor','flat');
-    view(3);
-    grid on;
-    axis equal;
+![just_for_you](https://user-images.githubusercontent.com/54856248/118977508-cecb3400-b9a8-11eb-9843-9797fa9ac09c.gif)
