@@ -32,5 +32,5 @@ redirect_from:
 
 ### ◼️ 科研成果
 
-[1] Yanlin Ruan, iPos-5G: Indoor Positioning via Commercial 5G NR CSI (Under veview)  
-[2] Yanlin Ruan, Hi-Loc: Hybrid Indoor Localization via Enhanced 5G NR CSI (Under veview)
+[1] Yanlin Ruan, **iPos-5G: Indoor Positioning via Commercial 5G NR CSI**, *IEEE Internet of Things Journal*, 2022. (Under veview)  
+[2] Yanlin Ruan, **Hi-Loc: Hybrid Indoor Localization via Enhanced 5G NR CSI**, *IEEE Transactions on Instrumentation and Measurement*, 2022. (Under veview)
