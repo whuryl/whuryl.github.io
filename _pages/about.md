@@ -20,7 +20,8 @@ I received an M.S. degree in the major of Control Theory and Control Engineering
 
 ### ◼️ 联系方式
 
-&ensp;&ensp;E-mail: <ruanyanlin@whu.edu.cn>
+* 邮箱: <ruanyanlin@whu.edu.cn>
+* 微信: WHURYL
 
 ### ◼️ 教育背景
 
@@ -33,6 +34,7 @@ I received an M.S. degree in the major of Control Theory and Control Engineering
 
 |年份|单位|部门|岗位|工作内容|
 |:-:|:-:|:-:|:-:|:-:|
+|2012-2013|中兴通讯股份有限公司|能源研究院|工程师|嵌入式系统应用软件研发|
 |2016-2017|中兴通讯股份有限公司|能源研究院|工程师|嵌入式系统应用软件研发|
 |2017-2019|湖北理工学院|电气与电子信息工程学院|教师|自动化专业本科课程任教|
 
