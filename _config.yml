@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UNL-WHU"
+title                    : "Yanlin Ruan"
 title_separator          : "-"
 name                     : &name "RYL"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruan-Yanlin"
+  name             : "Yanlin Ruan (阮焱林)"
   avatar           : "profile.png"
   bio              : "Wuhan University, China."
-  location         : "Location"
+  location         : "Wuhan, Hubei"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://ruanyanlin.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=IVA0DN0AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yanlin-Ruan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/whuryl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5322-5877"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
