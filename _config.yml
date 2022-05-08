@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "RYL"
 description              : &description "personal description"
