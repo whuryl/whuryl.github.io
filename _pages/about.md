@@ -18,6 +18,10 @@ Yanlin Ruan received an M.S. degree in the major of control theory and control e
 * WiFi信号室内定位
 * 机器学习/深度学习
 
+### ◼️ 联系方式
+
+&ensp;&ensp;E-mail: <ruanyanlin@whu.edu.cn>
+
 ### ◼️ 教育背景
 
 |年份|学校|院系|学历学位|专业|研究方向|
