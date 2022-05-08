@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yanlin Ruan received an M.S. degree in the major of control theory and control engineering from Wuhan University, Wuhan, China. He is currently pursuing a Ph.D. degree in communication and information systems at <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a>. His research interests mainly include indoor positioning and navigation technology, signal processing, and machine learning. He used to be an R&D engineer of <a href="https://www.zte.com.cn/china/" target="_blank">ZTE Corp.</a>, and a university lecturer majoring in electronic information engineering.
+I received an M.S. degree in the major of control theory and control engineering from Wuhan University, Wuhan, China. I am currently pursuing a Ph.D. degree in communication and information systems at <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a>. My research interests mainly include indoor positioning and navigation technology, signal processing, and machine learning. I used to be an R&D engineer of <a href="https://www.zte.com.cn/china/" target="_blank">ZTE Corp.</a>, and a university lecturer majoring in electronic information engineering.
 
 个人信息
 ------
