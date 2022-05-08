@@ -10,9 +10,11 @@ redirect_from:
 
 个人信息
 ------
-### ◼️ 研究方向
+### ◼️ 研究内容
 
-无线信号室内定位；机器学习。
+* 商用5G信号室内定位
+* WiFi信号室内定位
+* 机器学习/深度学习
 
 ### ◼️ 教育背景
 
@@ -27,3 +29,8 @@ redirect_from:
 |------|------|------|------|------|
 |2016-2017|中兴通讯股份有限公司|能源研究院|工程师|嵌入式系统应用软件研发|
 |2017-2019|湖北理工学院|电气与电子信息工程学院|教师|自动化专业本科课程任教|
+
+### ◼️ 科研成果
+
+[1] Yanlin Ruan, iPos-5G: Indoor Positioning via Commercial 5G NR CSI (Under veview)  
+[2] Yanlin Ruan, Hi-Loc: Hybrid Indoor Localization via Enhanced 5G NR CSI (Under veview)
