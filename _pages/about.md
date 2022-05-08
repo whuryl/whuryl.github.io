@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Yanlin Ruan received an M.S. degree in the major of control theory and control engineering from Wuhan University, Wuhan, China. He is currently pursuing a Ph.D. degree in communication and information systems at Wuhan University. His research interests mainly include indoor positioning and navigation technology, signal processing, and machine learning. He used to be an R&D engineer of ZTE Corp., and a university lecturer majoring in electronic information engineering.
+
 个人信息
 ------
 ### ◼️ 研究内容
