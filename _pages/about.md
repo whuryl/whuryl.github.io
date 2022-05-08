@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Yanlin Ruan (阮焱林)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
