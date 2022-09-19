@@ -44,9 +44,15 @@ redirect_from:
 
 ### ◼️ 科研成果
 
-> [1]	**Y. Ruan**, L. Chen, X. Zhou, Z. Liu, X. Liu, G. Guo, and R. Chen. "iPos-5G: Indoor Positioning via Commercial 5G NR CSI." *IEEE Internet of Things Journal*, 2022. (已录用，中科院一区Top期刊，IF=10.238)<br>
-> [2]	**Y. Ruan**, L. Chen, X. Zhou, G. Guo, and R. Chen. "Hi-Loc: Hybrid Indoor Localization via Enhanced 5G NR CSI." *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-15, 2022. (已发表，中科院二区期刊，IF=5.332)<br>
-> [3]	**Y. Ruan**, L. Chen, and R. Chen. "High-Accuracy Indoor Positioning of WiFi CSI with Supervised Machine Learning Approaches." *Remote Sensing*, 2022. (已投稿，中科院二区Top期刊，IF=5.349)<br>
-> [4]	S. Nan, L. Chen, X. Lu, **Y. Ruan**, H. Hu, Z. Zhang, L. Wang, and R. Chen. "Interactive Multiple-model Vertical Vibration Detection of Structures Based on High-frequency GNSS Observations." *GPS Solutions*, 26, no. 2, pp. 1-19, 2022. (已发表，中科院一区Top，IF=4.517)<br>
-> [5]	X. Liu, Z. Jiao, L. Chen, Y. Pan, X. Lu, and **Y. Ruan**. "An Enhanced Pedestrian Dead Reckoning Aided with DTMB Signals." *IEEE Transactions on Broadcasting*, vol. 68, no. 2, pp. 407-413, 2022. (已发表，中科院一区Top，IF=5.194)<br>
-> [6]	陈亮,阮焱林,刘钊良,周鑫,陈锐志; 一种基于信号质量控制与特征指纹增强的定位方法及系统, 2022, 中国发明专利, ZL202110652675.4. (已公开授权，导师一作)<br>
+> [1]	**Y. Ruan**, L. Chen, X. Zhou, Z. Liu, X. Liu, G. Guo, and R. Chen. "iPos-5G: Indoor Positioning via Commercial 5G NR CSI." *IEEE Internet of Things Journal*, 2022. (已录用，中科院一区Top期刊，IF=10.238)
+
+> [2]	**Y. Ruan**, L. Chen, X. Zhou, G. Guo, and R. Chen. "Hi-Loc: Hybrid Indoor Localization via Enhanced 5G NR CSI." *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-15, 2022. (已发表，中科院二区期刊，IF=5.332)
+
+> [3]	**Y. Ruan**, L. Chen, and R. Chen. "High-Accuracy Indoor Positioning of WiFi CSI with Supervised Machine Learning Approaches." *Remote Sensing*, 2022. (已投稿，中科院二区Top期刊，IF=5.349)
+
+> [4]	S. Nan, L. Chen, X. Lu, **Y. Ruan**, H. Hu, Z. Zhang, L. Wang, and R. Chen. "Interactive Multiple-model Vertical Vibration Detection of Structures Based on High-frequency GNSS Observations." *GPS Solutions*, 26, no. 2, pp. 1-19, 2022. (已发表，中科院一区Top，IF=4.517)
+
+> [5]	X. Liu, Z. Jiao, L. Chen, Y. Pan, X. Lu, and **Y. Ruan**. "An Enhanced Pedestrian Dead Reckoning Aided with DTMB Signals." *IEEE Transactions on Broadcasting*, vol. 68, no. 2, pp. 407-413, 2022. (已发表，中科院一区Top，IF=5.194)
+
+> [6]	陈亮,阮焱林,刘钊良,周鑫,陈锐志; 一种基于信号质量控制与特征指纹增强的定位方法及系统, 2022, 中国发明专利, ZL202110652675.4. (已公开授权，导师一作)
+
