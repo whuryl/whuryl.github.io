@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "阮焱林"
+  name             : "阮焱林 (Yanlin Ruan)"
   avatar           : "profile.png"
   bio              : "Wuhan University, China."
   location         : "Wuhan, Hubei"
   employer         :
-  pubmed           : "https://ruanyanlin.cn"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IVA0DN0AAAAJ&hl=en"
   email            : "ruanyanlin@whu.edu.cn"
   researchgate     : 
