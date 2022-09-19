@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanlin Ruan (阮焱林)"
+  name             : "阮焱林"
   avatar           : "profile.png"
   bio              : "Wuhan University, China."
   location         : "Wuhan, Hubei"
   employer         :
   pubmed           : "https://ruanyanlin.cn"
   googlescholar    : "https://scholar.google.com/citations?user=IVA0DN0AAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yanlin-Ruan"
+  email            : "ruanyanlin@whu.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/whuryl"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
