@@ -43,7 +43,7 @@ redirect_from:
 
 ### ◼️ 科研成果
 
-【SCI期刊学术论文】
+A. SCI期刊学术论文:
 
 [1]	<u>Y. Ruan</u>, L. Chen, X. Zhou, Z. Liu, X. Liu, G. Guo, and R. Chen. "iPos-5G: Indoor Positioning via Commercial 5G NR CSI." *IEEE Internet of Things Journal*, 2022. (已录用，中科院一区Top期刊，IF=10.238)
 
@@ -55,24 +55,24 @@ redirect_from:
 
 [5]	X. Liu, Z. Jiao, L. Chen, Y. Pan, X. Lu, and <u>Y. Ruan</u>. "An Enhanced Pedestrian Dead Reckoning Aided with DTMB Signals." *IEEE Transactions on Broadcasting*, vol. 68, no. 2, pp. 407-413, 2022. (已发表，中科院一区Top，IF=5.194)
 
-[6]	X. Zhou, L. Chen, <u>Y. Ruan</u> and R. Chen. “CatBoost-based Indoor Localization with Multi-beam 5G NR Signals.” IEEE Journal on Selected Areas in Communications, 2022. (已投稿，中科院一区Top, IF=13.081)
+[6]	X. Zhou, L. Chen, <u>Y. Ruan</u> and R. Chen. “CatBoost-based Indoor Localization with Multi-beam 5G NR Signals.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，中科院一区Top, IF=13.081)
 
-[7]	Z. Liu, L. Chen, <u>Y. Ruan</u>, L. Liang, and R. Chen. “SR-Track: A Deep Learning based Time of Arrival Estimation for 5G Positioning and Beyond.” IEEE Journal on Selected Areas in Communications, 2022. (已投稿，中科院一区Top, IF=13.081)
+[7]	Z. Liu, L. Chen, <u>Y. Ruan</u>, L. Liang, and R. Chen. “SR-Track: A Deep Learning based Time of Arrival Estimation for 5G Positioning and Beyond.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，中科院一区Top, IF=13.081)
 
 
-【已授权发明专利】
+B. 已授权发明专利:
 
 [1]	陈亮,<u>阮焱林</u>,刘钊良,周鑫,陈锐志; 一种基于信号质量控制与特征指纹增强的定位方法及系统, 2022, 中国发明专利, ZL202110652675.4. (已公开授权，导师一作)
 
 [2] 陈亮,刘钊良,周鑫,<u>阮焱林</u>,陈锐志; 一种基于多载波信号的子载波分集精密测距定位方法, 2022, 中国发明专利, ZL202110526595.4. (已公开授权)
 
 
-【已发表会议论文】
+C. 已发表会议论文:
 
-[1] Z. Liu, L. Chen, X. Zhou, <u>Y. Ruan</u>, Z. Jiao, and R. Chen. “A Precise Ranging with Subcarrier Diversity for 5g NR Indoor Positioning." The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, 46 (2022): 125-131. 
+[1] Z. Liu, L. Chen, X. Zhou, <u>Y. Ruan</u>, Z. Jiao, and R. Chen. “A Precise Ranging with Subcarrier Diversity for 5g NR Indoor Positioning." *The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences*, 46 (2022): 125-131. 
 
-[2] X. Li, L. Chen, X. Zhou, <u>Y. Ruan</u>, and Z. Liu. "Fusion of 5G Carrier Phase Ranging and 5G CSI Fingerprinting for Indoor Positioning." The 14th International Conference on Wireless Communications and Signal Processing (WCSP 2022), 18 (2022): 78-86.
+[2] X. Li, L. Chen, X. Zhou, <u>Y. Ruan</u>, and Z. Liu. "Fusion of 5G Carrier Phase Ranging and 5G CSI Fingerprinting for Indoor Positioning." *The 14th International Conference on Wireless Communications and Signal Processing (WCSP 2022)*, 18 (2022): 78-86.
 
-[3] 胡灏,陈亮,刘钊良,焦振航,周鑫,<u>阮焱林</u>. 基于5G信号的室内用户行为感知.第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术.2022:2-8. 
+[3] 胡灏,陈亮,刘钊良,焦振航,周鑫,<u>阮焱林</u>. 基于5G信号的室内用户行为感知.*第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术*.2022:2-8. 
 
-[4] 焦振航,陈亮,卢祥晨,刘钊良,胡灏,<u>阮焱林</u>. 中国数字电视信号辅助的GPS在城市峡谷中的单点定位.第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术.2022:66-73.
+[4] 焦振航,陈亮,卢祥晨,刘钊良,胡灏,<u>阮焱林</u>. 中国数字电视信号辅助的GPS在城市峡谷中的单点定位.*第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术*.2022:66-73.
