@@ -72,7 +72,7 @@ redirect_from:
 
 * 已发表会议论文:
 
-  [1] Z. Liu, L. Chen\*, X. Zhou, <u>Y. Ruan</u>, Z. Jiao, and R. Chen. “A Precise Ranging with Subcarrier Diversity for 5g NR Indoor Positioning." *The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences*, 46 (2022): 125-131. 
+  [1] Z. Liu, L. Chen\*, X. Zhou, <u>Y. Ruan</u>, Z. Jiao, and R. Chen. “A Precise Ranging with Subcarrier Diversity for 5g NR Indoor Positioning." *The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences*, 46 (2022): 125-131.
 
   [2] X. Li, L. Chen\*, X. Zhou, <u>Y. Ruan</u>, and Z. Liu. "Fusion of 5G Carrier Phase Ranging and 5G CSI Fingerprinting for Indoor Positioning." *The 14th International Conference on Wireless Communications and Signal Processing (WCSP 2022)*, 18 (2022): 78-86.
 
