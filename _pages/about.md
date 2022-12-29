@@ -57,9 +57,9 @@ redirect_from:
 
   [6]	X. Liu, Z. Jiao, L. Chen\*, Y. Pan, X. Lu, and <u>Y. Ruan</u>. "An Enhanced Pedestrian Dead Reckoning Aided with DTMB Signals." *IEEE Transactions on Broadcasting*, vol. 68, no. 2, pp. 407-413, 2022. DOI: [10.1109/TBC.2022.3157475](https://doi.org/10.1109/TBC.2022.3157475). (已发表，JCR 1区，中科院1区Top，IF=5.194)
 
-  [7]	X. Zhou, L. Chen\*, <u>Y. Ruan</u> and R. Chen. “CatBoost-based Indoor Localization with Multi-beam 5G NR Signals.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，JCR 1区，中科院1区Top，IF=13.081)
+  [7]	X. Zhou, L. Chen\*, <u>Y. Ruan</u> and R. Chen. “CatBoost-based Indoor Localization with Multi-beam 5G NR Signals.” (已投稿至IEEE Journal on Selected Areas in Communications，JCR 1区，中科院1区Top，IF=13.081)
 
-  [8]	Z. Liu, L. Chen\*, <u>Y. Ruan</u>, L. Liang, and R. Chen. “SR-Track: A Deep Learning based Time of Arrival Estimation for 5G Positioning and Beyond.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，JCR 1区，中科院1区Top，IF=13.081)
+  [8]	Z. Liu, L. Chen\*, <u>Y. Ruan</u>, L. Liang, and R. Chen. “SR-Track: A Deep Learning based Time of Arrival Estimation for 5G Positioning and Beyond.” (已投稿至IEEE Journal on Selected Areas in Communications，JCR 1区，中科院1区Top，IF=13.081)
 
 
 * 已授权发明专利:
