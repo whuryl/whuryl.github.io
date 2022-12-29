@@ -45,21 +45,21 @@ redirect_from:
 
 * SCI期刊学术论文:
 
-  [1]	<u>Y. Ruan</u>, L. Chen, X. Zhou, Z. Liu, X. Liu, G. Guo, and R. Chen. "iPos-5G: Indoor Positioning via Commercial 5G NR CSI." *IEEE Internet of Things Journal*, (Early Access), pp. 1–1, 2022. DOI: [10.1109/JIOT.2022.3232221](https://doi.org/10.1109/JIOT.2022.3232221). (已发表，JCR 1区，中科院1区Top，IF=10.238)
+  [1]	<u>Y. Ruan</u>, L. Chen\*, X. Zhou, Z. Liu, X. Liu, G. Guo, and R. Chen. "iPos-5G: Indoor Positioning via Commercial 5G NR CSI." *IEEE Internet of Things Journal*, (Early Access), pp. 1–1, 2022. DOI: [10.1109/JIOT.2022.3232221](https://doi.org/10.1109/JIOT.2022.3232221). (已发表，JCR 1区，中科院1区Top，IF=10.238)
 
-  [2]	<u>Y. Ruan</u>, L. Chen, X. Zhou, G. Guo, and R. Chen. "Hi-Loc: Hybrid Indoor Localization via Enhanced 5G NR CSI." *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-15, 2022. DOI: [10.1109/TIM.2022.3196748](https://doi.org/10.1109/TIM.2022.3196748). (已发表，JCR 1区，中科院2区，IF=5.332)
+  [2]	<u>Y. Ruan</u>, L. Chen\*, X. Zhou, G. Guo, and R. Chen. "Hi-Loc: Hybrid Indoor Localization via Enhanced 5G NR CSI." *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1-15, 2022. DOI: [10.1109/TIM.2022.3196748](https://doi.org/10.1109/TIM.2022.3196748). (已发表，JCR 1区，中科院2区，IF=5.332)
 
-  [3]	<u>Y. Ruan</u>, L. Chen, and R. Chen. "High-Accuracy Indoor Positioning of WiFi CSI with Supervised Machine Learning Approaches." (已投稿至Remote Sensing，JCR 1区，中科院2区Top，IF=5.349)
+  [3]	<u>Y. Ruan</u>, L. Chen\*, and R. Chen. "High-Accuracy Indoor Positioning of WiFi CSI with Supervised Machine Learning Approaches." (已投稿至Remote Sensing，JCR 1区，中科院2区Top，IF=5.349)
 
-  [4]	<u>Y. Ruan</u>, L. Chen, and R. Chen. "Gan-Loc: Indoor Localization via Conditional GAN and Commercial 5G NR CSI." (拟投稿至IEEE Internet of Things Journal，JCR 1区，中科院1区Top，IF=10.238)
+  [4]	<u>Y. Ruan</u>, L. Chen\*, and R. Chen. "Gan-Loc: Indoor Localization via Conditional GAN and Commercial 5G NR CSI." (拟投稿至IEEE Internet of Things Journal，JCR 1区，中科院1区Top，IF=10.238)
 
-  [5]	S. Nan, L. Chen, X. Lu, <u>Y. Ruan</u>, H. Hu, Z. Zhang, L. Wang, and R. Chen. "Interactive Multiple-model Vertical Vibration Detection of Structures Based on High-frequency GNSS Observations." *GPS Solutions*, 26, no. 2, pp. 1-19, 2022. DOI: [10.1007/s10291-021-01215-x](https://doi.org/10.1007/s10291-021-01215-x). (已发表，JCR 1区，中科院1区Top，IF=4.517)
+  [5]	S. Nan, L. Chen\*, X. Lu, <u>Y. Ruan</u>, H. Hu, Z. Zhang, L. Wang, and R. Chen. "Interactive Multiple-model Vertical Vibration Detection of Structures Based on High-frequency GNSS Observations." *GPS Solutions*, 26, no. 2, pp. 1-19, 2022. DOI: [10.1007/s10291-021-01215-x](https://doi.org/10.1007/s10291-021-01215-x). (已发表，JCR 1区，中科院1区Top，IF=4.517)
 
-  [6]	X. Liu, Z. Jiao, L. Chen, Y. Pan, X. Lu, and <u>Y. Ruan</u>. "An Enhanced Pedestrian Dead Reckoning Aided with DTMB Signals." *IEEE Transactions on Broadcasting*, vol. 68, no. 2, pp. 407-413, 2022. DOI: [10.1109/TBC.2022.3157475](https://doi.org/10.1109/TBC.2022.3157475). (已发表，JCR 1区，中科院1区Top，IF=5.194)
+  [6]	X. Liu, Z. Jiao, L. Chen\*, Y. Pan, X. Lu, and <u>Y. Ruan</u>. "An Enhanced Pedestrian Dead Reckoning Aided with DTMB Signals." *IEEE Transactions on Broadcasting*, vol. 68, no. 2, pp. 407-413, 2022. DOI: [10.1109/TBC.2022.3157475](https://doi.org/10.1109/TBC.2022.3157475). (已发表，JCR 1区，中科院1区Top，IF=5.194)
 
-  [7]	X. Zhou, L. Chen, <u>Y. Ruan</u> and R. Chen. “CatBoost-based Indoor Localization with Multi-beam 5G NR Signals.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，JCR 1区，中科院1区Top，IF=13.081)
+  [7]	X. Zhou, L. Chen\*, <u>Y. Ruan</u> and R. Chen. “CatBoost-based Indoor Localization with Multi-beam 5G NR Signals.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，JCR 1区，中科院1区Top，IF=13.081)
 
-  [8]	Z. Liu, L. Chen, <u>Y. Ruan</u>, L. Liang, and R. Chen. “SR-Track: A Deep Learning based Time of Arrival Estimation for 5G Positioning and Beyond.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，JCR 1区，中科院1区Top，IF=13.081)
+  [8]	Z. Liu, L. Chen\*, <u>Y. Ruan</u>, L. Liang, and R. Chen. “SR-Track: A Deep Learning based Time of Arrival Estimation for 5G Positioning and Beyond.” *IEEE Journal on Selected Areas in Communications*, 2022. (已投稿，JCR 1区，中科院1区Top，IF=13.081)
 
 
 * 已授权发明专利:
@@ -71,13 +71,13 @@ redirect_from:
 
 * 已发表会议论文:
 
-  [1] Z. Liu, L. Chen, X. Zhou, <u>Y. Ruan</u>, Z. Jiao, and R. Chen. “A Precise Ranging with Subcarrier Diversity for 5g NR Indoor Positioning." *The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences*, 46 (2022): 125-131. 
+  [1] Z. Liu, L. Chen\*, X. Zhou, <u>Y. Ruan</u>, Z. Jiao, and R. Chen. “A Precise Ranging with Subcarrier Diversity for 5g NR Indoor Positioning." *The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences*, 46 (2022): 125-131. 
 
-  [2] X. Li, L. Chen, X. Zhou, <u>Y. Ruan</u>, and Z. Liu. "Fusion of 5G Carrier Phase Ranging and 5G CSI Fingerprinting for Indoor Positioning." *The 14th International Conference on Wireless Communications and Signal Processing (WCSP 2022)*, 18 (2022): 78-86.
+  [2] X. Li, L. Chen\*, X. Zhou, <u>Y. Ruan</u>, and Z. Liu. "Fusion of 5G Carrier Phase Ranging and 5G CSI Fingerprinting for Indoor Positioning." *The 14th International Conference on Wireless Communications and Signal Processing (WCSP 2022)*, 18 (2022): 78-86.
 
-  [3] 胡灏,陈亮,刘钊良,焦振航,周鑫,<u>阮焱林</u>. 基于5G信号的室内用户行为感知.*第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术*.2022:2-8. 
+  [3] 胡灏,陈亮\*,刘钊良,焦振航,周鑫,<u>阮焱林</u>. 基于5G信号的室内用户行为感知.*第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术*.2022:2-8. 
 
-  [4] 焦振航,陈亮,卢祥晨,刘钊良,胡灏,<u>阮焱林</u>. 中国数字电视信号辅助的GPS在城市峡谷中的单点定位.*第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术*.2022:66-73.
+  [4] 焦振航,陈亮\*,卢祥晨,刘钊良,胡灏,<u>阮焱林</u>. 中国数字电视信号辅助的GPS在城市峡谷中的单点定位.*第十三届中国卫星导航年会论文集-S09PNT体系与PNT新技术*.2022:66-73.
 
 ### ◼️ 社会兼职
 
